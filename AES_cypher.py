@@ -1,4 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2761
+e{\rtf1\ansi\ansicpg1252\cocoartf2761
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 Times-Roman;}
 {\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
 {\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
@@ -69,4 +69,4 @@
 
 \f0\fs29\fsmilli14667 print("Decrypted message:", decrypted.decode('utf-8'))
 \f1\fs24 \
-}
+
